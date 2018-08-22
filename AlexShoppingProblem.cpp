@@ -1,6 +1,5 @@
 #include <iostream>
 #include <cstdio>
-#include <valarray>
 using namespace std;
 
 int calculate(int arr[],int n)
